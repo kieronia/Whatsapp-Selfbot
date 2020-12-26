@@ -5,4 +5,4 @@
 
 Likely against the whatsapp tos for automating their software so don't use this - this was made as a demo!
 
-Very inefficient code, the way messages load etc , I ended up having to make this kinda complicated, I've made a few commands, you can add more if you like (make sure to send me it, I'd love to see it!), but it's a brief demonstration that I hope people can get an understanding of!
+Very confusing concept, the way messages load etc , I ended up having to make this kinda complicated, I've made a few commands, you can add more if you like (make sure to send me it, I'd love to see it!), but it's a brief demonstration that I hope people can get an understanding of!
