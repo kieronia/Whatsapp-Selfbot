@@ -4,7 +4,7 @@ import sys, pathlib, time, os, requests, random,choice, datetime
 from colorama import Fore, init, Back, Style
 init(convert=True)
 
-driver = webdriver.Chrome(executable_path= r'C:\Users\kieronia\.wdm\drivers\chromedriver\win32\84.0.4147.30\lel\chromedriver.exe')
+driver = webdriver.Chrome(executable_path= r'C:\Users\kieronia\hromedriver.exe')
 #chromedriver path here 
 
 count = 0
